@@ -1,0 +1,8 @@
+{
+  "name": "prompt-as-spec",
+  "version": "1.0.0",
+  "description": "Three-layer engineering specification prompts and architectural guardrails for Discourse, Go + TypeScript/React, and Astro 7.",
+  "author": {
+    "name": "HHF Technology"
+  }
+}

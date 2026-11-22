@@ -1,0 +1,14 @@
+{
+  "name": "hhf-skills",
+  "description": "Engineering specification skills and architectural guardrails for HHF Technology.",
+  "owner": {
+    "name": "HHF Technology"
+  },
+  "plugins": [
+    {
+      "name": "prompt-as-spec",
+      "source": "./plugins/prompt-as-spec",
+      "description": "Three-layer engineering specification prompts and architectural guardrails for Discourse Ruby plugins, Discourse themes, Go + TypeScript/React, and Astro 7."
+    }
+  ]
+}
